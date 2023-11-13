@@ -39,7 +39,7 @@ const Skills = () => {
       {/* Skill buckets */}
       <div className="flex flex-row gap-2 items-center md:justify-center h-[75%] overflow-x-auto">
         {/* Bucket 1 */}
-        <div className="border shadow-lg rounded-lg h-[60%] md:h-[80%] flex flex-col  min-w-[300px]">
+        <div className="border shadow-lg rounded-lg h-[90%] md:h-[80%] flex flex-col  min-w-[300px]">
           <div className="font-semibold text-2xl text-[#555555] pt-2 text-center">
             Backend
           </div>
@@ -81,7 +81,7 @@ const Skills = () => {
           </div>
         </div>
         {/* Bucket 2*/}
-        <div className="border shadow-lg rounded-lg h-[60%] md:h-[80%] flex flex-col min-w-[300px]">
+        <div className="border shadow-lg rounded-lg h-[90%] md:h-[80%] flex flex-col min-w-[300px]">
           <div className="font-semibold text-2xl text-[#555555] pt-2 text-center">
             Frontend
           </div>
@@ -121,7 +121,7 @@ const Skills = () => {
           </div>
         </div>
         {/* Bucket 3 */}
-        <div className="border shadow-lg rounded-lg h-[60%] md:h-[80%] flex flex-col min-w-[300px]">
+        <div className="border shadow-lg rounded-lg h-[90%] md:h-[80%] flex flex-col min-w-[300px]">
           <div className="font-semibold text-2xl text-[#555555] pt-2 text-center">
             Others
           </div>
