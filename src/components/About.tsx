@@ -7,7 +7,7 @@ const About = () => {
     window.open(file_url, "_blank");
   };
   return (
-    <div className="mx-auto max-w-screen-2xl px-4 md:px-8 h-screen bg-[#F5F5F5] font-baloo py-4">
+    <div className="mx-auto max-w-screen-2xl px-4 md:px-8  bg-[#F5F5F5] font-baloo py-4">
       <div className="h-[25%] flex items-center justify-center flex-col gap-2">
         <div className="text-4xl font-bold text-[#555555] sm:text-5xl">
           About Me
