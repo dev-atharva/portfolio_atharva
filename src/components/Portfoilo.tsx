@@ -32,7 +32,7 @@ const Portfoilo = () => {
             <div className="flex items-start justify-between gap-2 px-2">
               <div className="flex flex-col">
                 <a
-                  href="https://converso-production.up.railway.app/"
+                  href="https://github.com/dev-atharva/Converso"
                   className="text-lg font-bold text-gray-800 transition duration-100 hover:text-gray-500 lg:text-xl"
                 >
                   Converso
